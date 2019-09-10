@@ -1,0 +1,11 @@
+# User-specific files
+*.exe
+*.zip
+*.ico
+ffxivahk_cn.ahk
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Mac desktop service store files
+.DS_Store
